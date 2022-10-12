@@ -35,8 +35,21 @@ Markdown for Github documentation
 
 ## 2. BlockQuote
 
+<pre>
 > 블록 1
 > > 블록 2
 > > > 블록 3
 > > > > 블록 4
 > > > > > 블록 5
+</pre>
+
+> 블록 1
+> > 블록 2
+> > > 블록 3
+> > > > 블록 4
+> > > > > 블록 5
+
+``` diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
