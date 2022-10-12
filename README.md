@@ -73,7 +73,7 @@ __ 강조 __
 
 
 ---
-## 2. BlockQuote
+## 3. BlockQuote
 
 <pre>
 > 블록 1
