@@ -40,6 +40,7 @@ Markdown for Github documentation
 **강조** <br/>
 __강조__ <br/>
 *이탤릭*
+_이탤릭_
 
 ---
 ## 2. BlockQuote
