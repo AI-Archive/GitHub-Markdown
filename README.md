@@ -103,7 +103,8 @@ ___
 <br/>
 
 ---
-## 5. BlockQuote
+<details>
+<summary><font size="5"> 5. BlockQuote </font></summary>
 
 ### 문법
 <pre>
@@ -120,11 +121,12 @@ ___
 > > > 블록 3
 > > > > 블록 4
 > > > > > 블록 5
-
+</details>
 
 
 ---
-## 6. 목록
+<details>
+<summary><font size="5"> 6. 목록</font></summary>
 
 ### 문법
 <pre>
@@ -171,13 +173,11 @@ ___
 목록 생성은 바(-)로 수행한다.
 하위 목록 생성시 - 사이에 공백 또는 탭 문자를 넣어서 하위 목록을 생성 가능하다.
 특징으로 상위 목록 표시와 하위 목록 표시를 동시에 할 수 있다.
+</details>
 
 ---
-
 <details>
 <summary><font size="5"> 7. 코드 블록 </font></summary>
-
-## 7. 코드 블록
 
 ### 문법
 <pre>
@@ -208,6 +208,7 @@ print('hello world!')
 </pre>
 </details>
 
+---
 <details>
 <summary> <font size="5"> 8. 문서 접기 </font></summary>
 
