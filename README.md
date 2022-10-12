@@ -248,6 +248,8 @@ print('hello world!')
 
 
 ### 미리보기
+![Image](Images/9_sections.png)
+
 <details>
 <summary> 섹션 </summary>
 문서 내용
