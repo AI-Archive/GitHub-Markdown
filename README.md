@@ -106,7 +106,7 @@ ___
 </details>
 
 - [ ] #739 aaa
-- [ ] bbb
+- [x] bbb
 
 <details>
 <summary> <font size="5"> 5. 작업 리스트 (Task lists) </font> </summary>
