@@ -255,3 +255,4 @@ visit https://github.com
 </details>
 
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. 
+`rgb(9, 105, 218)` aaa bbb
