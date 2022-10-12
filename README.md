@@ -38,7 +38,9 @@ Markdown for Github documentation
 ## 2. 문자 표시법
 
 ** 강조 **
-__ 강조 __
+<br/>
+__ 강조 __ 
+<br/>
 *이탤릭*
 
 ---
