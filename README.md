@@ -1,6 +1,7 @@
-# GitHub-Markdown
+# GitHub-Markdown 0.0.2
 Markdown for Github documentation
 - 깃허브 마크다운 문서 작성용 문법 예시
+- - 참조한 것 + 테스트 해본것들 추가중
 
 
 <br/><br/>
@@ -13,12 +14,7 @@ Markdown for Github documentation
 
 <br/>
 
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
-###### 제목 6
+### 문법
 <pre>
 # 제목 1
 ## 제목 2
@@ -27,3 +23,20 @@ Markdown for Github documentation
 ##### 제목 5
 ###### 제목 6
 </pre>
+### 미리보기
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### 제목 6
+
+<br/>
+
+## 2. BlockQuote
+
+> 블록 1
+> > 블록 2
+> > > 블록 3
+> > > > 블록 4
+> > > > > 블록 5
