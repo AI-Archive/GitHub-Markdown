@@ -81,6 +81,8 @@ __ 강조 __
 <[!]/> <- [!] 위치에 br 입력
 </pre>
 
+![lineBreak](Images/3_lineBreak.png)
+
 ### 미리보기
 테스트1
 <br/>
@@ -246,9 +248,9 @@ print('hello world!')
 </[!]> <- [!]에 detail 작성
 </pre>
 
+![Image](Images/9_sections.png)
 
 ### 미리보기
-![Image](Images/9_sections.png)
 
 <details>
 <summary> 섹션 </summary>
