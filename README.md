@@ -199,5 +199,6 @@ print('hello world!')
 
 ### 주의사항
 <pre>
+문법 강조 (syntax highliting)
 ```의 앞에 코드 블록 안에 작성한 코드의 사용 언어를 입력하면 코드에 색이 입혀진다.
 </pre>
