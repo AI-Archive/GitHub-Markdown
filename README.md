@@ -1,10 +1,10 @@
 # GitHub-Markdown 0.1.0
 Markdown for Github documentation
 - 깃허브 마크다운 문서 작성용 문법 예시
-- - 참조한 것 + 테스트 해본것들 추가중
+- 참조한 것 + 테스트 해본것들 추가중
 
 
-<br/><br/>
+<br/>
 
 # Github용 마크다운 작성법
 
@@ -107,7 +107,7 @@ ___
 
 ---
 <details>
-<summary><font size="5"> 5. BlockQuote </font></summary>
+<summary><font size="5"> 5. 인용구 (Blockquote) </font></summary>
 
 ### 문법
 <pre>
@@ -213,7 +213,7 @@ print('hello world!')
 
 ---
 <details>
-<summary> <font size="5"> 8. 문서 접기 </font></summary>
+<summary> <font size="5"> 8. 섹션 </font></summary>
 
 ### 문법
 <pre>
@@ -226,7 +226,7 @@ print('hello world!')
 
 ### 미리보기
 <details>
-<summary> 문서 접기 </summary>
+<summary> 섹션 </summary>
 문서 내용
 </details>
 
@@ -238,3 +238,20 @@ summary 항목은 작성하지 않아도 동작함
 </details>
 
 </details>
+
+visit https://github.com
+
+---
+<details>
+<summary> TODO List</summary>
+
+- 테이블 (tables) (기본)
+- 링크 (link) (기본)
+- 파일 업로드 (기본, 테스트 필요)
+- 다이어그램 (diagram) (응용)
+- 수학표현식 (Mathematical expressions) (응용)
+- 자동 링크 url (Autolinked references and URLs) (응용)
+
+</details>
+
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. 
