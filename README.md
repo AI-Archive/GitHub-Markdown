@@ -35,6 +35,13 @@ Markdown for Github documentation
 <br/>
 
 ---
+## 2. 문자 표시법
+
+** 강조 **
+__ 강조 __
+*이탤릭*
+
+---
 ## 2. BlockQuote
 
 <pre>
