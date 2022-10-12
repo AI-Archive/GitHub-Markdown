@@ -11,6 +11,7 @@ Markdown for Github documentation
 <br/><br/>
 
 ---
+
 ## 1. 헤더 (Headers)
 
 <br/>
@@ -32,10 +33,10 @@ Markdown for Github documentation
 ##### 제목 5
 ###### 제목 6
 
-<br/>
 
 ---
-## 2. 문자 표시법
+<details>
+<summary><font size="5"> 2. 문자 표시법 </summary>
 
 ### 문법
 <pre>
@@ -67,11 +68,14 @@ _이탤릭_ <br/>
 <pre>
 __ 강조 __
 </pre>
-#### 보기
+#### 미리보기
 __ 강조 __
+</details>
 
 ---
-## 3. 줄바꿈 (엔터)
+<details>
+<summary><font size="5"> 3. 줄바꿈(엔터) </font></summary>
+
 - 문서를 작성할 때의 엔터는 결과물에서 적용되지 않는다. 줄바꿈(엔터)에 대한 문법이 추가로 존재한다.
 
 ### 문법
@@ -84,9 +88,11 @@ __ 강조 __
 <br/>
 테스트2
 <br/>
+</details>
 
 ---
-## 4. 수평선
+<details>
+<summary><font size="5"> 4. 수평선 </font></summary>
 
 ### 문법
 <pre>
@@ -99,8 +105,7 @@ ___
 ---
 ***
 ___
-
-<br/>
+</details>
 
 ---
 <details>
