@@ -24,7 +24,7 @@ Markdown for Github documentation
 ##### 제목 5
 ###### 제목 6
 </pre>
-### 미리보기
+### 보기
 # 제목 1
 ## 제목 2
 ### 제목 3
@@ -49,7 +49,7 @@ _이탤릭_
 <[!]> 서브스크립트 </[!]> <-- [!] 위치에 sub 작성
 </pre>
 
-### 미리보기
+### 보기
 **강조** <br/>
 __강조__ <br/>
 *이탤릭* <br/>
@@ -67,7 +67,7 @@ _이탤릭_ <br/>
 <pre>
 __ 강조 __
 </pre>
-#### 미리보기
+#### 보기
 __ 강조 __
 
 
@@ -75,6 +75,7 @@ __ 강조 __
 ---
 ## 3. BlockQuote
 
+### 문법
 <pre>
 > 블록 1
 > > 블록 2
@@ -83,16 +84,10 @@ __ 강조 __
 > > > > > 블록 5
 </pre>
 
+### 주의사항
 > 블록 1
 > > 블록 2
 > > > 블록 3
 > > > > 블록 4
 > > > > > 블록 5
-
-+ this text is highlighted in green
-
-``` diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
 
