@@ -105,9 +105,34 @@ ___
 ___
 </details>
 
+- [ ] #739 aaa
+<details>
+<summary> <font size="5"> 5. 작업 리스트 (Task lists) </font> </summary>
+
+### 문법
+<pre>
+*type what grammer is*
+</pre>
+
+### 미리보기
+
+
+<br/>
+
+### 주의사항
+*주의해야 할 사항 개요*
+#### 문법
+<pre>
+*잘못 쓴 코드 문법*
+</pre>
+#### 미리보기
+*잘못 쓴 코드 미리보기*
+
+</details>
+
 ---
 <details>
-<summary><font size="5"> 5. 인용구 (Blockquote) </font></summary>
+<summary><font size="5"> 6. 인용구 (Blockquote) </font></summary>
 
 ### 문법
 <pre>
@@ -129,7 +154,7 @@ ___
 
 ---
 <details>
-<summary><font size="5"> 6. 목록</font></summary>
+<summary><font size="5"> 7. 목록</font></summary>
 
 ### 문법
 <pre>
@@ -169,8 +194,15 @@ ___
 - 목록 10
     - 목록 11
         - 목록 12
-
 <br/>
+
+1. 목록 13
+    1. 목록 14
+        1. 목록 15
+        1. 목록 16
+1. 목록 17
+1. 목록 18
+    1. 목록 19
 
 ### 주의사항
 목록 생성은 바(-)로 수행한다.
@@ -180,7 +212,7 @@ ___
 
 ---
 <details>
-<summary><font size="5"> 7. 코드 블록 </font></summary>
+<summary><font size="5"> 8. 코드 블록 </font></summary>
 
 ### 문법
 <pre>
@@ -213,7 +245,7 @@ print('hello world!')
 
 ---
 <details>
-<summary> <font size="5"> 8. 섹션 </font></summary>
+<summary> <font size="5"> 9. 섹션 </font></summary>
 
 ### 문법
 <pre>
