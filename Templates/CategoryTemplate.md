@@ -1,5 +1,5 @@
 
-## 2. *Category name*
+## 1. *Category name*
 
 ### 문법
 <pre>
