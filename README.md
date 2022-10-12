@@ -37,10 +37,8 @@ Markdown for Github documentation
 ---
 ## 2. 문자 표시법
 
-**강조**
-<br/>
-__강조__ 
-<br/>
+**강조** <br/>
+__강조__ <br/>
 *이탤릭*
 
 ---
