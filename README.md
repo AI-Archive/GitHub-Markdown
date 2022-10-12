@@ -262,8 +262,6 @@ summary 항목은 작성하지 않아도 동작함
 
 </details>
 
-visit https://github.com
-
 ---
 <details>
 <summary> TODO List</summary>
