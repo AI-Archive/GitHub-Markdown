@@ -38,7 +38,7 @@ Markdown for Github documentation
 ## 2. 문자 표시법
 
 ### 문법
-<pre>
+<pre><code>
 **강조** <br/>
 __강조__ <br/>
 *이탤릭* <br/>
@@ -49,7 +49,7 @@ _이탤릭_ <br/>
 <[!]> 슈퍼스크립트 </[!]> <-- [!] 위치에 sup 작성
 <sub> 서브스크립트 </sub> <br/>
 ```
-</pre>
+</code></pre>
 
 ### 미리보기
 **강조** <br/>
