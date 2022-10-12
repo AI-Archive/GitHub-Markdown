@@ -39,8 +39,12 @@ Markdown for Github documentation
 
 **강조** <br/>
 __강조__ <br/>
-*이탤릭*
-_이탤릭_
+*이탤릭* <br/>
+_이탤릭_ <br/>
+~~취소선~~ <br/>
+***모두 강조 및 이탤릭*** <br/>
+<sub> 서브스크립트 </sub>
+<sup> 슈퍼스크립트 </sup>
 
 ---
 ## 2. BlockQuote
