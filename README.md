@@ -173,6 +173,10 @@ ___
 특징으로 상위 목록 표시와 하위 목록 표시를 동시에 할 수 있다.
 
 ---
+
+<details>
+<summary><font size="5"> 7. 코드 블록 </font></summary>
+
 ## 7. 코드 블록
 
 ### 문법
@@ -202,27 +206,31 @@ print('hello world!')
 문법 강조 (syntax highliting)
 첫 ```의 뒤에 코드 블록 안에 작성한 코드의 사용 언어를 입력하면 코드에 색이 입혀진다.
 </pre>
+</details>
 
----
-## 8. 문서 접기
+<details>
+<summary> <font size="5"> 8. 문서 접기 </font></summary>
 
 ### 문법
 <pre>
-<details>
-
-</details>
+<[!]> <- [!]에 detail 작성
+<[?]> 문서 접기 </[?]> <- [?]에 summary 작성
+    문서 내용
+</[!]> <- [!]에 detail 작성
 </pre>
 
+
 ### 미리보기
-*type what show is*
+<details>
+<summary> 문서 접기 </summary>
+문서 내용
+</details>
 
 <br/>
 
 ### 주의사항
-*주의해야 할 사항 개요*
-#### 문법
-<pre>
-*잘못 쓴 코드 문법*
-</pre>
-#### 미리보기
-*잘못 쓴 코드 미리보기*
+summary 항목은 작성하지 않아도 동작함
+- 이 경우 접은 문단의 제목은 기본값 '세부정보' 적용되는듯
+</details>
+
+</details>
