@@ -105,30 +105,19 @@ ___
 ___
 </details>
 
-- [ ] #739 aaa
-- [x] bbb :tada:
-
+---
 <details>
 <summary> <font size="5"> 5. 작업 리스트 (Task lists) </font> </summary>
 
 ### 문법
 <pre>
-*type what grammer is*
+- [ ] 작업 보기
+- [x] 작업 완료
 </pre>
 
 ### 미리보기
-
-
-<br/>
-
-### 주의사항
-*주의해야 할 사항 개요*
-#### 문법
-<pre>
-*잘못 쓴 코드 문법*
-</pre>
-#### 미리보기
-*잘못 쓴 코드 미리보기*
+- [ ] 작업 준비
+- [x] 작업 완료
 
 </details>
 
@@ -287,5 +276,3 @@ visit https://github.com
 - 자동 링크 url (Autolinked references and URLs) (응용)
 
 </details>
-
-[Contribution guidelines for this project](Templates/CategoryTemplate.md)
