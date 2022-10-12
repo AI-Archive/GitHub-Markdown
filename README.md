@@ -3,9 +3,9 @@ Markdown for Github documentation
 
 # Github용 마크다운 작성법
 
-## 헤더 (Headers)
+## 1. 헤더 (Headers)
 
-
+<br/>
 
 # 제목 1
 ## 제목 2
