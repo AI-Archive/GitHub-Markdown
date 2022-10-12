@@ -8,13 +8,11 @@ Markdown for Github documentation
 
 # Github용 마크다운 작성법
 
-<br/><br/>
+<br/>
 
 ---
-
-## 1. 헤더 (Headers)
-
-<br/>
+<details>
+<summary><font size="5"> 1. 헤더 </font></summary>
 
 ### 문법
 <pre>
@@ -32,7 +30,7 @@ Markdown for Github documentation
 #### 제목 4
 ##### 제목 5
 ###### 제목 6
-
+</details>
 
 ---
 <details>
