@@ -10,6 +10,7 @@ Markdown for Github documentation
 
 <br/><br/>
 
+---
 ## 1. 헤더 (Headers)
 
 <br/>
